@@ -8,7 +8,7 @@ import okhttp3.Interceptor
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
-import site.sterk.weatherforecastmvvm.data.response.CurrentWeatherResponse
+import site.sterk.weatherforecastmvvm.data.network.response.CurrentWeatherResponse
 
 const val API_KEY ="e0fb4087156b42240c7f9a71064bf83e"
 //http://api.weatherstack.com/current?access_key=e0fb4087156b42240c7f9a71064bf83e&query=London&Lang=en

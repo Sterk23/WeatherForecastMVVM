@@ -1,4 +1,4 @@
-package site.sterk.weatherforecastmvvm.data.response
+package site.sterk.weatherforecastmvvm.data.db.entity
 
 
 import com.google.gson.annotations.SerializedName
